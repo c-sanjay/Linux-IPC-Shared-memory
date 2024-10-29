@@ -130,14 +130,17 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ```
 $./shm.o
 ```
-![alt text](out11.png)
+![image](https://github.com/user-attachments/assets/62269a6a-dd93-4f88-a95b-4dcf63f570a4)
+
 ```
 $./shmry2.o
 ```
-![](./out33.png)
+![image](https://github.com/user-attachments/assets/2d923529-4ab5-4450-8cbf-aeebce8a66bd)
+
 ```
 $ipcs
 ```
-![](./out22.png)
+![image](https://github.com/user-attachments/assets/efd0e4f1-871f-404d-922f-6b5e640d2b75)
+
 # RESULT:
 The program is executed successfully.
